@@ -10,6 +10,10 @@ npx create-react-app dojo-blog
 
 npm run start
 
+## Start JSON server
+
+npx json-server --watch data/db.json --port 8000
+
 # React router package
 
 npm install react-router-dom@5
