@@ -1,17 +1,14 @@
-# Node version check
-
+# Commands
+### Node version check
 node -v
 
-# Create react project
-
+### Create react project
 npx create-react-app dojo-blog
 
-# To start the project
-
+### To start the project
 npm run start
 
-## Start JSON server
-
+### Start JSON server
 npx json-server --watch data/db.json --port 8000
 
 # React router package
