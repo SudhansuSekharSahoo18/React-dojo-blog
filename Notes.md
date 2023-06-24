@@ -1,3 +1,15 @@
+# Node version check
+
+node -v
+
+# Create react project
+
+npx create-react-app dojo-blog
+
+# To start the project
+
+npm run start
+
 # React router package
 
 npm install react-router-dom@5
